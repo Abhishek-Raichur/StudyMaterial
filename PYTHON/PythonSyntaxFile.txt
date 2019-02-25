@@ -1,0 +1,9 @@
+#Count occurence of string
+ipAddress=1.1.1.1
+print(ipAddress.count("."))
+
+< Output >
+3
+
+--------------------------------------------------------------
+
